@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FER202/static/css/main.36d5dbe2.css",
+    "main.js": "/FER202/static/js/main.c12fef24.js",
+    "static/js/453.934dac9a.chunk.js": "/FER202/static/js/453.934dac9a.chunk.js",
+    "index.html": "/FER202/index.html",
+    "main.36d5dbe2.css.map": "/FER202/static/css/main.36d5dbe2.css.map",
+    "main.c12fef24.js.map": "/FER202/static/js/main.c12fef24.js.map",
+    "453.934dac9a.chunk.js.map": "/FER202/static/js/453.934dac9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d5dbe2.css",
+    "static/js/main.c12fef24.js"
+  ]
+}
